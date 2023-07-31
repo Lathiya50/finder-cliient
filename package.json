@@ -2,7 +2,7 @@
   "name": "react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Lathiya50.github.io/finder",
+  "homepage": "https://Lathiya50.github.io/finder-cliient",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
